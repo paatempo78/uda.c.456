@@ -1,6 +1,6 @@
 # uda.c.456
 Boas vindas ao meu perfil 💙💙
-Meu nome é eduarda felicia
+Meu nome é **eduarda felicia**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
